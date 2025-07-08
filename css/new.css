@@ -1,0 +1,39 @@
+
+.merriweather-normal {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.b-card img{
+    margin: none;
+    width: 100%;
+    height: auto;
+    filter: brightness(0.7);
+}
+
+.b-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.b-h5{
+    line-height: 0.4;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    font-weight: 400;
+}
+
+.b-h2  {
+    line-height: 0.4;
+    text-align: center;
+    color: white;
+    font-size: 4.5em;
+}
