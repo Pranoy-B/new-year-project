@@ -57,3 +57,39 @@ main h2{
     font-size: 3em;
     line-height: 0.5;
 }
+
+.container h2{
+    line-height: 1;
+    color: white;
+    letter-spacing: 11%;
+}
+
+.container p{
+    color: white;
+    font-weight: 100;
+}
+
+.container h4 a{
+    text-decoration: none;
+    color: white;
+    letter-spacing: 10%;
+}
+
+.container{
+    position: relative;
+}
+
+.container img{
+    max-width: 80%;
+    height: auto;
+    margin-top: 100px;
+    margin-left: 140px;
+}
+
+.cont-text{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    right: 8%;
+    transform: translate(-50%, -50%);
+}
