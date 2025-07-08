@@ -8,6 +8,9 @@
     "wdth" 100;
 }
 
+body{
+    background-color: #1E1E1E;
+}
 
 .b-card img{
     margin: none;
@@ -36,4 +39,21 @@
     text-align: center;
     color: white;
     font-size: 4.5em;
+}
+
+.offer{
+    max-width: 802px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.offer-text{
+    text-align: center;
+}
+
+.text-color{
+    color: #FF0000;
+}
+main h2{
+    font-size: 3em;
+    line-height: 0.5;
 }
